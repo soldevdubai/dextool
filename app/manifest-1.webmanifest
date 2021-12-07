@@ -1,0 +1,30 @@
+{
+  "name": "DEXTools.io",
+  "short_name": "Dextools.io",
+  "description": "Ultimate Hub and Defi App For Uniswap and DEX trading.",
+  "theme_color": "#07b8d9",
+  "background_color": "#20263c",
+  "display": "standalone",
+  "scope": "/app/",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/img/logo/dextools_logo_header_35.png",
+      "sizes": "35x35",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/img/logo/dext-large.png",
+      "sizes": "460x460",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "125x125",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}

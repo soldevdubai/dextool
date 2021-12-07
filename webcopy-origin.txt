@@ -1,104 +1,416 @@
-Uri: https://www.dextools.io/app/
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\index.htm
+Uri: https://www.dextools.io/
+File Name: C:\Downloaded Web Sites\www.dextools.io\index.htm
 Content Type: text/html
 
-Uri: https://www.dextools.io/app/manifest.webmanifest
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\manifest.webmanifest
-Content Type: application/octet-stream
-
-Uri: https://www.dextools.io/app/favicon.ico
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\favicon.ico
+Uri: https://www.dextools.io/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\favicon.ico
 Content Type: image/x-icon
 
-Uri: https://www.dextools.io/app/styles.f46fb2408a160f959d4f.css
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\styles.f46fb2408a160f959d4f.css
+Uri: https://www.dextools.io/assets/css/main-1.css?624234456
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\css\main-1.css
 Content Type: text/css
 
-Uri: https://www.dextools.io/app/assets/img/logo/dextools_logo_header_35.png
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\assets\img\logo\dextools_logo_header_35.png
+Uri: https://www.dextools.io/assets/css/vendor/aos.css
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\css\vendor\aos.css
+Content Type: text/css
+
+Uri: https://www.dextools.io/assets/pdf/DEXTools_manifesto.pdf
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\pdf\DEXTools_manifesto.pdf
+Content Type: application/pdf
+
+Uri: https://www.dextools.io/app
+File Name: C:\Downloaded Web Sites\www.dextools.io\app.html
+Content Type: text/html
+
+Uri: https://www.dextools.io/app/ether/pair-explorer/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\ether\pair-explorer\0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d.html
+Content Type: text/html
+
+Uri: https://www.dextools.io/app/bsc/pair-explorer/0x4b729d5d871057f3a9c424792729217cde72410d
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\bsc\pair-explorer\0x4b729d5d871057f3a9c424792729217cde72410d.html
+Content Type: text/html
+
+Uri: https://www.dextools.io/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-172063425-1
+File Name: C:\Downloaded Web Sites\www.dextools.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/assets/img/logo_mini_new_large.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\logo_mini_new_large.png
 Content Type: image/png
 
-Uri: https://www.dextools.io/app/runtime-es2015.eaf58677cce4c1322f01.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es2015.eaf58677cce4c1322f01.js
+Uri: https://www.dextools.io/assets/img/hero_img_illu.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\hero_img_illu.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/icon_responsive.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_responsive.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/icon_subscriptions.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_subscriptions.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/icon_store_your_data.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_store_your_data.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/icon_notifications.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_notifications.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/asset_folded_1.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\asset_folded_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/asset_folded_2.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\asset_folded_2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/icon_pool_explorer.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_pool_explorer.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/pool_explorer_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\pool_explorer_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/icon_pair_explorer.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_pair_explorer.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/pair_explorer_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\pair_explorer_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/icon_exchange_data.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_exchange_data.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/big_swap_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\big_swap_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/icon_ob_search.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_ob_search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/multiswap_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\multiswap_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/icon_wallet_info.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\icon_wallet_info.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/wallet_info_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\wallet_info_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/sections/aggregator.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\aggregator.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/illu_hand_with_phone.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\illu_hand_with_phone.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/time_roadmap.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\time_roadmap.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/sections/team/javi_ceo_1.jpeg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\javi_ceo_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/eric_cmo.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\eric_cmo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/pablo_1.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\pablo_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/nacho.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\nacho.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/dani_alvarez.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\dani_alvarez.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/chris.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\chris.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/david_1.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\david_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/no_foto.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\no_foto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/guille.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\guille.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/mohanned.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\mohanned.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/alex.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\alex.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/sections/team/mauvis_advisor_circle.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\team\mauvis_advisor_circle.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/one-inch.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\one-inch.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/partners/FerrumNetworkLogo.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\FerrumNetworkLogo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/partners/moon-logo.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\moon-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/partners/FERAstrategies.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\FERAstrategies.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/partners/Sushiswap.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\Sushiswap.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/CARBON.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\CARBON.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/pinpointpurple.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\pinpointpurple.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/SYNC_ICONO.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\SYNC_ICONO.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/yfdai.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\yfdai.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/CMC.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\CMC.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/assets/img/partners/Unicrypt.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\Unicrypt.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/partners/dextforce.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\dextforce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/partners/0x.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\0x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/assets/img/partners/elrond.jpg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\partners\elrond.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dextools.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/runtime-es5.eaf58677cce4c1322f01.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es5.eaf58677cce4c1322f01.js
+Uri: https://www.dextools.io/assets/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\vendor\jquery.min.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/polyfills-es5.647191faa294513f7d8e.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es5.647191faa294513f7d8e.js
+Uri: https://www.dextools.io/assets/js/vendor/popper.min.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\vendor\popper.min.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/polyfills-es2015.d512396f61ac8edf4106.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es2015.d512396f61ac8edf4106.js
+Uri: https://www.dextools.io/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\vendor\bootstrap.min.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/scripts.64cc887cfa81ea1455ef.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\scripts.64cc887cfa81ea1455ef.js
+Uri: https://www.dextools.io/assets/js/vendor/share.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\vendor\share.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/vendor-es2015.9b59e31fc895dc20f67e.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es2015.9b59e31fc895dc20f67e.js
+Uri: https://www.dextools.io/assets/js/functions.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\functions.js
 Content Type: application/javascript
 
-Uri: https://www.dextools.io/app/vendor-es5.9b59e31fc895dc20f67e.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es5.9b59e31fc895dc20f67e.js
-Content Type: application/javascript
-
-Uri: https://www.dextools.io/app/main-es2015.54dee51ffd5aaafe0556.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es2015.54dee51ffd5aaafe0556.js
-Content Type: application/javascript
-
-Uri: https://www.dextools.io/app/main-es5.54dee51ffd5aaafe0556.js
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es5.54dee51ffd5aaafe0556.js
+Uri: https://www.dextools.io/assets/js/vendor/aos.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\js\vendor\aos.js
 Content Type: application/javascript
 
 Uri: https://static.cloudflareinsights.com/beacon.min.js/v64f9daad31f64f81be21cbef6184a5e31634941392597
-File Name: C:\Downloaded Web Sites\www.dextools.io\beacon.min.js\v64f9daad31f64f81be21cbef6184a5e31634941392597
+File Name: C:\Downloaded Web Sites\www.dextools.io\beacon.min.js\v64f9daad31f64f81be21cbef6184a5e31634941392597-1
 Content Type: text/javascript
 
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap
+File Name: C:\Downloaded Web Sites\www.dextools.io\css2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\www.dextools.io\css2-1.css
+Content Type: text/css
+
+Uri: https://www.dextools.io/assets/img/asset_roadmap_bg.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\asset_roadmap_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/assets/img/sections/bck_pattern_1.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\assets\img\sections\bck_pattern_1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/app/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\manifest-1.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.dextools.io/app/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.dextools.io/app/styles.f46fb2408a160f959d4f.css
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\styles.f46fb2408a160f959d4f-1.css
+Content Type: text/css
+
+Uri: https://www.dextools.io/app/assets/img/logo/dextools_logo_header_35.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\assets\img\logo\dextools_logo_header_35-1.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/app/runtime-es2015.eaf58677cce4c1322f01.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es2015.eaf58677cce4c1322f01-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/runtime-es5.eaf58677cce4c1322f01.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es5.eaf58677cce4c1322f01-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/polyfills-es5.647191faa294513f7d8e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es5.647191faa294513f7d8e-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/polyfills-es2015.d512396f61ac8edf4106.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es2015.d512396f61ac8edf4106-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/scripts.64cc887cfa81ea1455ef.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\scripts.64cc887cfa81ea1455ef-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/vendor-es2015.9b59e31fc895dc20f67e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es2015.9b59e31fc895dc20f67e-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/vendor-es5.9b59e31fc895dc20f67e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es5.9b59e31fc895dc20f67e-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/main-es2015.54dee51ffd5aaafe0556.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es2015.54dee51ffd5aaafe0556-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/main-es5.54dee51ffd5aaafe0556.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es5.54dee51ffd5aaafe0556-1.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
 Uri: https://www.dextools.io/app/fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d.eot
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d-2.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: https://www.dextools.io/app/fontawesome-webfont.8b43027f47b20503057d.eot?
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d-1.eot
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d-3.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: https://www.dextools.io/app/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.20fd1704ea223900efa9.woff2
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.20fd1704ea223900efa9-1.woff2
 Content Type: application/octet-stream
 
 Uri: https://www.dextools.io/app/fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.f691f37e57f04c152e23.woff
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.f691f37e57f04c152e23-1.woff
 Content Type: application/font-woff
 
 Uri: https://www.dextools.io/app/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.1e59d2330b4c6deb84b3.ttf
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.1e59d2330b4c6deb84b3-1.ttf
 Content Type: application/octet-stream
 
 Uri: https://www.dextools.io/app/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.c1e38fd9e0e74ba58f7a-1.svg
 Content Type: image/svg+xml
 
 Uri: https://www.dextools.io/app/data-table.40742b4faed98d0250a5.eot
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5.eot
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5-2.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: https://www.dextools.io/app/data-table.40742b4faed98d0250a5.eot?
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5-1.eot
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5-3.eot
 Content Type: application/vnd.ms-fontobject
 
 Uri: https://www.dextools.io/app/data-table.53c319729491b7686d65.woff
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.53c319729491b7686d65.woff
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.53c319729491b7686d65-1.woff
 Content Type: application/font-woff
 
 Uri: https://www.dextools.io/app/data-table.93be7e0fc94594d266a2.ttf
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.93be7e0fc94594d266a2.ttf
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.93be7e0fc94594d266a2-1.ttf
 Content Type: application/octet-stream
 
 Uri: https://www.dextools.io/app/data-table.7eda0c04830dac128c76.svg
-File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.7eda0c04830dac128c76.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.7eda0c04830dac128c76-1.svg
 Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
 
