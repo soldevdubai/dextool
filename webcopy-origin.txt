@@ -1,0 +1,104 @@
+Uri: https://www.dextools.io/app/
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\index.htm
+Content Type: text/html
+
+Uri: https://www.dextools.io/app/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\manifest.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.dextools.io/app/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.dextools.io/app/styles.f46fb2408a160f959d4f.css
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\styles.f46fb2408a160f959d4f.css
+Content Type: text/css
+
+Uri: https://www.dextools.io/app/assets/img/logo/dextools_logo_header_35.png
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\assets\img\logo\dextools_logo_header_35.png
+Content Type: image/png
+
+Uri: https://www.dextools.io/app/runtime-es2015.eaf58677cce4c1322f01.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es2015.eaf58677cce4c1322f01.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/runtime-es5.eaf58677cce4c1322f01.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\runtime-es5.eaf58677cce4c1322f01.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/polyfills-es5.647191faa294513f7d8e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es5.647191faa294513f7d8e.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/polyfills-es2015.d512396f61ac8edf4106.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\polyfills-es2015.d512396f61ac8edf4106.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/scripts.64cc887cfa81ea1455ef.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\scripts.64cc887cfa81ea1455ef.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/vendor-es2015.9b59e31fc895dc20f67e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es2015.9b59e31fc895dc20f67e.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/vendor-es5.9b59e31fc895dc20f67e.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\vendor-es5.9b59e31fc895dc20f67e.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/main-es2015.54dee51ffd5aaafe0556.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es2015.54dee51ffd5aaafe0556.js
+Content Type: application/javascript
+
+Uri: https://www.dextools.io/app/main-es5.54dee51ffd5aaafe0556.js
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\main-es5.54dee51ffd5aaafe0556.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v64f9daad31f64f81be21cbef6184a5e31634941392597
+File Name: C:\Downloaded Web Sites\www.dextools.io\beacon.min.js\v64f9daad31f64f81be21cbef6184a5e31634941392597
+Content Type: text/javascript
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.8b43027f47b20503057d.eot?
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.8b43027f47b20503057d-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.20fd1704ea223900efa9.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.f691f37e57f04c152e23.woff
+Content Type: application/font-woff
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.1e59d2330b4c6deb84b3.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dextools.io/app/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dextools.io/app/data-table.40742b4faed98d0250a5.eot
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dextools.io/app/data-table.40742b4faed98d0250a5.eot?
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.40742b4faed98d0250a5-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dextools.io/app/data-table.53c319729491b7686d65.woff
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.53c319729491b7686d65.woff
+Content Type: application/font-woff
+
+Uri: https://www.dextools.io/app/data-table.93be7e0fc94594d266a2.ttf
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.93be7e0fc94594d266a2.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dextools.io/app/data-table.7eda0c04830dac128c76.svg
+File Name: C:\Downloaded Web Sites\www.dextools.io\app\data-table.7eda0c04830dac128c76.svg
+Content Type: image/svg+xml
+
